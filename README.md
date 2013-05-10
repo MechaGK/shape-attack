@@ -1,7 +1,8 @@
 #Shape Attack
+#####A Ludum Dare 26 game for the theme: "Minimalism".
 
-####Discription:
-My Ludum Dare 26 game with the theme: "Minimal".
+####How to play:
+
 The goal of the game is to shot or collide with red shapes to gain points.
 You lose lives when red shapes get outside the level.
 The twist is that you move to the position of the shapes you've shot and take their shape.
